@@ -8,7 +8,7 @@ This project focuses on the creation of two asset allocation models for a multi-
 ## Project Components
 
 1. **Data Import and Processing:**  Process asset data based on a list of inner codes and create merged DataFrames and return DataFrames ready for constructing the Risk Parity Model and Mean-Variance Model
- 
+ ```python
 def process_assets(innercodes):
     """
     Process asset data based on a list of inner codes and create merged DataFrames
@@ -58,7 +58,7 @@ def process_assets(innercodes):
     data_MV = merged_df
     data_RP = merged_df
     return data_MV, data_RP
-
+```
 
 3. **Financial Evaluation Indicators:** To evaluate the performance of the asset allocation models, various financial evaluation indicators are calculated. These indicators provide insights into the risk and return characteristics of the portfolio.
 
