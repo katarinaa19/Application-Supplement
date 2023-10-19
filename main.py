@@ -1,3 +1,9 @@
+"""
+This project entails the creation of two distinct asset allocation models for a multi-asset portfolio. 
+The objective is to analyze and optimize the allocation of assets to achieve desirable outcomes. 
+The two models employed for this purpose are the Risk Parity Model and the Mean-Variance Model.
+"""
+
 # Import Libraries
 import pandas as pd
 import os
