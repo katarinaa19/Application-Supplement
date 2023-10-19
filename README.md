@@ -22,7 +22,7 @@ This project focuses on the creation of two asset allocation models for a multi-
 7. **Visualizations:** The project includes functions for plotting and visualizing cumulative returns and portfolio weights over time. These visualizations are essential for understanding the performance of the portfolio.
 
 ## Results
-
+...
 **Visualizations:** The project includes functions for plotting and visualizing cumulative returns and portfolio weights over time. These visualizations are essential for understanding the performance of the portfolio.
 
    - Risk Parity Model: Asset Return
@@ -36,7 +36,7 @@ This project focuses on the creation of two asset allocation models for a multi-
 
    - Mean-Variance Model: Asset Weight
      ![Mean-Variance Model: Asset Weight](Visualization/Mean Variance Model - Asset Weights.png)
-
+...
 
 ## Conclusion
 
