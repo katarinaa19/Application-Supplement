@@ -116,7 +116,7 @@ def Calculate_Evaluation_Indicators(df, rf=0.00, ALL_Indicator=False, net_value_
         return rr, std, maxdrawdown, sharpe, sortino, calmar
 ```
 
-4. **Construct Models:**Calculate the weights with Risk Parity Model and Mean-Variance Model
+4. **Construct Models:** Calculate the weights with Risk Parity Model and Mean-Variance Model
 ```python
 def R_P(subset, T, rf):
     """
