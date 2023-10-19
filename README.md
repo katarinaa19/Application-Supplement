@@ -21,6 +21,23 @@ This project focuses on the creation of two asset allocation models for a multi-
 
 7. **Visualizations:** The project includes functions for plotting and visualizing cumulative returns and portfolio weights over time. These visualizations are essential for understanding the performance of the portfolio.
 
+## Results
+
+**Visualizations:** The project includes functions for plotting and visualizing cumulative returns and portfolio weights over time. These visualizations are essential for understanding the performance of the portfolio.
+
+   - Risk Parity Model: Asset Return
+     ![Risk Parity Model: Asset Return](Visualization/Risk Parity Model - Asset Returns.png)
+
+   - Mean-Variance Model: Asset Return
+     ![Mean-Variance Model: Asset Return](Visualization/Mean Variance Model - Asset Returns.png)
+
+   - Risk Parity Model: Asset Weight
+     ![Risk Parity Model: Asset Weight](Visualization/Risk Parity Model - Asset Weights.png)
+
+   - Mean-Variance Model: Asset Weight
+     ![Mean-Variance Model: Asset Weight](Visualization/Mean Variance Model - Asset Weights.png)
+
+
 ## Conclusion
 
 This project aims to optimize asset allocation for a multi-asset portfolio by employing two distinct models: the Risk Parity Model and the Mean-Variance Model. It encompasses data processing, the calculation of financial evaluation indicators, and the generation of visualizations to assess the performance of these allocation strategies.
