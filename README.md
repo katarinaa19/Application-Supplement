@@ -1,4 +1,3 @@
-# Application-Supplement
 # Multi-Asset Portfolio Allocation Project
 
 ## Overview
